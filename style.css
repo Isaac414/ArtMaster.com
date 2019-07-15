@@ -1,0 +1,21 @@
+.bg-picton {
+  background-color: #8B0000;
+}
+
+.btn-picton {
+  background-color: #45b1e8;
+}
+.btn-picton:hover {
+  background-color: #2a8abb;
+  cursor: pointer;
+}
+
+.text-picton{
+  color: #0000CD;
+}
+.text-goldenrod{
+  color: #DAA520;
+}
+.bg-silver{
+  background-color: #C0C0C0	;
+}
